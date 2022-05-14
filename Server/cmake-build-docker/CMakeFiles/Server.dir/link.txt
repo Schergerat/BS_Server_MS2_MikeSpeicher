@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Server.dir/main.c.o CMakeFiles/Server.dir/keyValStore.c.o CMakeFiles/Server.dir/sub.c.o  -o Server 
